@@ -1,0 +1,106 @@
+Region 01 - Bonn Siegerland (EDGS) --min-lon=7.0 --max-lon=7.3 --min-lat=50.7 --max-lat=50.8 
+	Airports:
+		EDGS
+Region 02 - Frankfurt (EDDF) and region --min-lon=7.8 --max-lon=9.0 --min-lat=49.8 --max-lat=50.2 
+	Airports
+		EDDF
+		EDFZ
+		EDFE
+		EDES
+		ETOU
+		XED02 (Sportflugplatz Zellhausen)
+		ED1G (Frankfurt-Höchst)
+		ED1E (BGU Bergen-Enkheim)
+		ED1C (Frankfurt Uniklinik)
+		ED1D (Klinikum Offenbach)
+Region 03 - Rheintal and Schwarzwald (1) - Freiburg --min-lon=7.7 --max-lon=8.4 --min-lat=47.8 --max-lat=48.3
+	Airports
+		EDTF
+		EDSW
+		XEDDH (Kirchzarten)
+		XEDE6 (Reiselfingen)
+Region 04 - Rheintal and Schwarzwald (2) - Karlsruhe and Baden-Baden  --min-lon=8.0 --max-lon=8.8 --min-lat=48.7 --max-lat=49.2
+	Airports
+		EDSB
+		XEDRS (Rheinstetten)
+		EDTC
+		EDRI
+		XEDDR (Landau)
+		EDTB
+Region 05 - Rheintal (3) - Speyer to Bensheim  --min-lon=8.1 --max-lon=8.8 --min-lat=49.2 --max-lat=49.8
+	Airports
+		EDRY
+		EDFM
+		EDFX (Hockenheim)
+		EDEH (Herrenteich)
+		XEDCN (Haßloch)
+		XEDD3 (Dannstadt)
+		EDGX (Walldorf)
+		EDRF
+		XEDCH (Grünstadt)
+		EDFV
+		Bürstadt
+		XEDAU (Bensheim)
+		EDEP (Heppenheim)
+		EDGZ (Weinheim)
+		EDIE (ex Heidelberg)
+		XED000A (Heidelberg Uniklinik)
+		XEDD6 (Malsch)
+Region 06 - Hamburg   --min-lon=9.5 --max-lon=10.2 --min-lat=53.4 --max-lat=53.7
+	Airports
+		EDDH
+		EDHI
+		EDHE
+		XEDA1 (Boberg)
+		XED00K (Boberg Unfallklinik)
+		XEDB0 (Fischbek)		TODO
+Region 07 - Nürnberg and surroundings --min-lon=10.9 --max-lon=11.2 --min-lat=49.3 --max-lat=49.9
+	Airports
+		EDDN
+		EDQE
+		XEDB1 (Frieser Warte)
+		UL Frankendorf			TODO
+		XEDBK (Dobenreuth)
+Region 08 - Erfurt and Weimar --min-lon=10.7 --max-lon=11.7 --min-lat=50.7 --max-lat=51.2
+	Airports
+		EDDE
+		EDOU
+		EDOB
+		EDBA
+		EDEG
+		EDBS
+Region 09 - Stuttgart and surroundings --min-lon=8.8 --max-lon=9.5 --min-lat=48.4 --max-lat=48.9
+	Airports
+		EDDS
+		EDST
+		XED04 (Dettingen/Teck)
+		EDTN
+		EDSG
+		XED05 (Hülben)			TODO
+		XED03 (Roßfeld)			TODO
+		Motorfluggelände Metzingen ??
+		XED06 (Übersberg)		TODO
+		XEDEH (Münsingen - Eisberg)	TODO
+		EDSP
+		XEDBF (Deckenpfronn)		TODO
+		XEDD5 (Malmsheim)
+		EDTQ
+		XEDBU (Esslingen)		TODO
+Region 10 - Ramstein AB and Kaiserslautern --min-lon=7.2 --max-lon=8.0 --min-lat=49.4 --max-lat=49.8
+	Airports
+		ETAR
+		EDRX
+		XEDDQ (Kusel)			TODO
+		ETEK
+		EDRG
+		Meckenbach ??
+		Imsweiler ??
+		Eßweiler ??
+		Becherbach ??
+Region 11 - Spangdahlem AB and Bitburg --min-lon=6.4 --max-lon=6.9 --min-lat=49.8 --max-lat=50.2
+	Airports
+		EDRB
+		ETAD
+		Ernzen ??
+		EDRT
+		XEDBE (Daun)			TODO
