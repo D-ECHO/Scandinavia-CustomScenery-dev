@@ -127,3 +127,13 @@ Region 12 - München and surroundings	--min-lon=10.8 --max-lon=12.0 --min-lat=47
 		ETSA
 		XEDG7 (Altomünster)
 		XEDAB (Aichach)
+Region 13 - Ulm	--min-lon=9.6 --max-lon=10.3 --min-lat=48.3 --max-lat=48.6
+	Airports
+		EDNE
+		EDMG
+		XEDFZ (Urspring)		TODO
+		XEDEU (Oppingen/Au)		TODO
+		XEDAX/XED07?? (Berneck)		TODO
+		EDPB
+		EDPJ
+		EDMC
