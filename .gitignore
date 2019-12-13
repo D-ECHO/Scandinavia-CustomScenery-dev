@@ -1,6 +1,6 @@
 groundnet/aptdat2sqlite.py
 groundnet/legacy-groundnets-icao.lst
-groundnet/sqlity2xml.py
+groundnet/sqlite2xml.py
 data/SRTM-1
 work
 work-corine

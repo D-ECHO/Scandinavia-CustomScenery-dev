@@ -137,3 +137,16 @@ Region 13 - Ulm	--min-lon=9.6 --max-lon=10.3 --min-lat=48.3 --max-lat=48.6
 		EDPB
 		EDPJ
 		EDMC
+Region 14 - Bodensee / Lake of Constance --min-lon=8.8 --max-lon=9.8 --min-lat=47.3 --max-lat=47.9
+	Airports
+		EDTZ
+		EDSR
+		XEDCQ (Heiligenberg)		TODO
+		Markdorf??
+		EDNY
+		XED09 (Berg)			TODO
+		XEDGY (Wildberg/Lindau)
+		LSZR
+		ED07 (Glashuette - Oberems)
+		LSZT
+		LSPA

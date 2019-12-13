@@ -1,5 +1,5 @@
 #!/bin/sh
-cp -r ../osm_data/germany/work/* work-osm/
+cp -r ../osm_data/centraleurope/work/* work-osm/
 for i in output/Terrain/*; do
 	for k in $i/*; do
 		mkdir work-osm/Default
