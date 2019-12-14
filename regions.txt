@@ -150,3 +150,6 @@ Region 14 - Bodensee / Lake of Constance --min-lon=8.8 --max-lon=9.8 --min-lat=4
 		ED07 (Glashuette - Oberems)
 		LSZT
 		LSPA
+Region 15 - Zeltweg AB --min-lon=14.5 --max-lon=15.0 --min-lat=47.0 --max-lat=47.3
+	Airports
+		LOXZ
