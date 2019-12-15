@@ -164,3 +164,28 @@ Region 16 - Zurich and surroundings --min-lon=8.4 --max-lon=8.8 --min-lat=47.1 -
 		LSZK
 		LSZN
 		LSZH
+Region 17 - Central Switzerland (1) --min-lon=7.8 --max-lon=8.8 --min-lat=46.5 --max-lat=47.1
+	Airports
+		LSME
+		LSZC
+		LSMA
+		LSPG
+		LSMI
+		LSMM
+Region 18 - Bern --min-lon=7.1 --max-lon=7.8 --min-lat=46.8 --max-lat=47.4
+	Airports
+		LSZG
+		LSZB
+Region 19 - Central Switzerland (2) --min-lon=7.0 --max-lon=7.8 --min-lat=46.0 --max-lat=46.8
+	Airports
+		LSZW
+		LSGR
+		LSTZ
+		LSTS
+		LSHG
+		LSGS
+		Altiport Croix de Coeur
+		LSGK
+		LSGT
+		LSGE
+		
