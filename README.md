@@ -16,7 +16,8 @@ This repository includes the scripts and data that was used for generating the "
 
 Following sources have been used:
 
-* SRTM-1 global elevation data from https://opendem.info
+* SRTM-1 global elevation data from https://opendem.info  
+	*Produced using Copernicus data and information funded by the European Union - EU-DEM layers.*
 * Landcover Data from https://land.copernicus.eu/pan-european/corine-land-cover/clc2018
 * Landcover Data from http://download.geofabrik.de and https://osmdata.openstreetmap.de/data/land-polygons.html
 * Airport Data from https://gateway.x-plane.com

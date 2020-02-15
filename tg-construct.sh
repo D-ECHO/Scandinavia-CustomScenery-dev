@@ -16,7 +16,10 @@ then
 	geo='--min-lon=17.8 --max-lon=18.0 --min-lat=59.3 --max-lat=59.5'
 elif [ $1 -eq 5 ]
 then
-	geo='--min-lon=5.5 --max-lon=6.6 --min-lat=62.4 --max-lat=63.0'
+	geo='--min-lon=5.5 --max-lon=6.6 --min-lat=62.4 --max-lat=63.0' #Alesund
+elif [ $1 -eq 6 ]
+then
+	geo='--min-lon=6.7 --max-lon=7.7 --min-lat=62.6 --max-lat=63.0' #Molde
 fi
 echo $1
 echo $geo
